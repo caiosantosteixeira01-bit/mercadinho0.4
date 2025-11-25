@@ -50,6 +50,7 @@ Exibição da logo na tela inicial.
 Controle de permissões (Admin / Comum).
 
 ✔ Tela Principal
+
 <img width="304" height="336" alt="Captura de tela 2025-11-25 140938" src="https://github.com/user-attachments/assets/4feee0ee-d6e0-43d8-afae-9b17c8c71073" />
 <img width="234" height="144" alt="Captura de tela 2025-11-25 141008" src="https://github.com/user-attachments/assets/c346560d-3947-4fbd-a44a-8a593cd094cc" />
 
@@ -62,6 +63,7 @@ Listagem de usuários (para admins).
 Acesso rápido às funções principais do sistema.
 
 ✔ Gestão de Produtos
+
 <img width="796" height="632" alt="Captura de tela 2025-11-25 141024" src="https://github.com/user-attachments/assets/9d7adf4a-f99b-431d-b004-729af460cf65" />
 <img width="174" height="196" alt="Captura de tela 2025-11-25 141120" src="https://github.com/user-attachments/assets/a9d709c2-7be4-4b02-bdf6-841fd478c6af" />
 
@@ -72,6 +74,7 @@ Campos de nome, preço, quantidade, categoria, descrição.
 Atualização automática na tabela principal.
 
 ✔ Gestão de Usuários
+
 <img width="593" height="426" alt="Captura de tela 2025-11-25 141037" src="https://github.com/user-attachments/assets/f793c3a8-1294-4502-af26-7c4d32f38113" />
 <img width="215" height="143" alt="Captura de tela 2025-11-25 141108" src="https://github.com/user-attachments/assets/65a8ae97-0cff-4b60-8b82-2c34eefafa11" />
 
